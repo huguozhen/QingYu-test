@@ -2,7 +2,8 @@
   <div id="app">
     <div>
       <router-link to="/">Home</router-link>|
-      <router-link to="/about">About</router-link>
+      <router-link to="/about">About</router-link>|
+      <router-link to="/test-page-guozhen">Test Page</router-link>
     </div>
     <div>
       <router-view></router-view>
